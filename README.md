@@ -1,1 +1,1 @@
-# SAMA
+SAMA Exercises
